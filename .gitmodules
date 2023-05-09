@@ -1,3 +1,9 @@
 [submodule "computer-vision"]
 	path = computer-vision
 	url = https://github.com/Morgan-Potter/W.I.N.S.T.O.N-Computer-Vision.git
+[submodule "flask-server"]
+	path = flask-server
+	url = https://github.com/joush007/Flask-Server-WINSTON.git
+[submodule "blender-render"]
+	path = blender-render
+	url = https://github.com/joush007/Blender-Render-WINSTON.git
