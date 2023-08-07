@@ -4,6 +4,3 @@
 [submodule "flask-server"]
 	path = flask-server
 	url = https://github.com/joush007/Flask-Server-WINSTON.git
-[submodule "blender-render"]
-	path = blender-render
-	url = https://github.com/joush007/Blender-Render-WINSTON.git
